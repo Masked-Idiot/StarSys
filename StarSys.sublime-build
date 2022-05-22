@@ -1,0 +1,3 @@
+{
+	"cmd": ["${folder:file_path}\\StarSys.bat"]
+}
