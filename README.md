@@ -23,3 +23,4 @@ You are going to need to change the path the .bat file copies the files to so th
 
 That is everything you need to know about StarSys.
 Everything else in StarSys is the same as in python.
+You WILL NEED Python installed on your machine AND python in your PATH.
