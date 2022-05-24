@@ -1,0 +1,2 @@
+import result
+result.main()
