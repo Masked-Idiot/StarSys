@@ -19,7 +19,6 @@ You can write just plain python in StarSys but then what is the point of "compil
 For if statments, functions, classes, and loops you are going to need curly braces{}
 In StarSys you will not be able to do things like print(f"my token is {self.token} because it is my favorite.") because of how the compiler is written.
 You are going to need to change the path the .bat files (and .sublime-build if you use sublime) so that it will work.
-Put the makeStar.bat file into your user folder and edit the path in it to make it go to the StarSys interpreter folder where ever you put it.
 
 That is everything you need to know about StarSys.
 Everything else in StarSys is the same as in python.
