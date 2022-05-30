@@ -1,6 +1,6 @@
 @echo off
 set file=%1
-starsys %file%
+transtar %file%
 set dir=%2
 cd C:\Users\liamc\Documents\Python_Projects\StarSys\Interpreter\
 pyinstaller --onefile app.py
