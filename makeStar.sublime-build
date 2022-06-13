@@ -1,3 +1,0 @@
-{
-	"cmd": ["C:\\Program Files\\makeStar\\makeStar.bat", "${file_path}", "${folder:${file_path}}"]
-}
